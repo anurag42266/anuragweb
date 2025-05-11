@@ -318,7 +318,7 @@ nav .fas{
 }
 @media only screen and (max-width:700px){
    #header{
-    background-image: url(photo1__1_-removebg-preview.png) ;
+    background-image: url(photo1__1_-removebg-preview.png);
    } 
    .header-text{
     margin-top:75%;
